@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Suma</string>
+    <string name="NumeroUno">TextView</string>
+    <string name="NumeroDos">TextView</string>
+</resources>
